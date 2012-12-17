@@ -5,4 +5,6 @@
 
 //Actually no, there isn't
 
+//but if something was here, it would be clever, and probaby namespaced
+
 ?>
