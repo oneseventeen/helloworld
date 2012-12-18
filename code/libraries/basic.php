@@ -2,4 +2,6 @@
 
 phpinfo();
 
+include('advanced.php');
+
 ?>
